@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{1B19158F-E398-40A6-8E3B-350508E125F1}") = "DxSample", "DxSample\DxSample.dxjsproj", "{548EE10C-FA26-4086-AE07-C7E1861FB69C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{548EE10C-FA26-4086-AE07-C7E1861FB69C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548EE10C-FA26-4086-AE07-C7E1861FB69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548EE10C-FA26-4086-AE07-C7E1861FB69C}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{548EE10C-FA26-4086-AE07-C7E1861FB69C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{548EE10C-FA26-4086-AE07-C7E1861FB69C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{548EE10C-FA26-4086-AE07-C7E1861FB69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548EE10C-FA26-4086-AE07-C7E1861FB69C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548EE10C-FA26-4086-AE07-C7E1861FB69C}.Release|ARM.ActiveCfg = Release|Any CPU
+		{548EE10C-FA26-4086-AE07-C7E1861FB69C}.Release|x64.ActiveCfg = Release|Any CPU
+		{548EE10C-FA26-4086-AE07-C7E1861FB69C}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

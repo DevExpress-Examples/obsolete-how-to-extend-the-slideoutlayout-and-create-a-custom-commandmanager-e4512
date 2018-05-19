@@ -1,0 +1,9 @@
+﻿.layout-list-bottom {
+    position: absolute;
+    bottom: 0;
+    height: auto;
+    width: 100%;
+}
+.nav-list {
+    height: 100%;
+}
