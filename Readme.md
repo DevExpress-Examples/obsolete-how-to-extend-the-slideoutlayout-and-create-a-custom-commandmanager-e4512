@@ -1,4 +1,7 @@
 # OBSOLETE - How to extend the SlideOutLayout and create a custom CommandManager
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4512)**
+<!-- run online end -->
 
 
 <p><strong>This example is OBSOLETE. The approach described here cannot be used in version 13.2 and older. At the moment, there is no alternative solution. <br /><br /><br />[Old content]</strong><br />This example demonstrates how to add one more List to the SlideOutLayout and divide commands into two groups.</p>
